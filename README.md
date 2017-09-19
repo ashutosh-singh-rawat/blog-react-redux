@@ -1,6 +1,6 @@
-# React Redux Simple Starter Kit
+# Blog React Redux
 
-Blog Rect Redux.
+Blog React Redux.
 * react
 * redux
 * redux-form
