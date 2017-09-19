@@ -1,7 +1,11 @@
 # React Redux Simple Starter Kit
 
-React Redux Simple Starter Kit.
-
+Blog Rect Redux.
+* react
+* redux
+* redux-form
+* axios
+* react-router-dom
 ## Getting Started
 
 * [Clone](https://github.com/ashutosh-singh-rawat/react-redux-simple-starter-kit.git) - repository
